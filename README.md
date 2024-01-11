@@ -1,12 +1,9 @@
-# archaeo_modelling
-A QGIS plugin that incorporates the MaxEnt algorithm, so is useful for site prediction modelling.
-These workflows will help users of this plugin, but for everyday GIS tasks, ask Google
 <p align="center">
   <img src="https://earth-chris.github.io/elapid/img/elapid-logo.png" alt="elapid logo"/>
 </p>
 
 <p align="center">
-  <em>Contemporary species distribution modeling tools for python.</em>
+  <em>QGIS plugin utilizing Maxent for predictive modelling.</em>
 </p>
 
 ![GitHub](https://img.shields.io/github/license/earth-chris/elapid)
@@ -26,7 +23,7 @@ These workflows will help users of this plugin, but for everyday GIS tasks, ask 
 
 ## Introduction
 
-
+This documentation is not designed to be an introduction to QGIS; it gives workflows specific to this plugin.  If you need common operations there is a QGIS resource section or Google.
 
 ---
 
@@ -94,38 +91,14 @@ The extra flexibility provided by `elapid` enables more control over the seeming
 
 ---
 
-## How to cite
-
-BibTeX:
+## Citation
 
 ```
-@article{
-  Anderson2023,
-  title = {elapid: Species distribution modeling tools for Python}, journal = {Journal of Open Source Software}
-  author = {Christopher B. Anderson},
-  doi = {10.21105/joss.04930},
-  url = {https://doi.org/10.21105/joss.04930},
-  year = {2023},
-  publisher = {The Open Journal},
-  volume = {8},
-  number = {84},
-  pages = {4930},
-}
-```
 
-Or click "Cite this repository" on the [GitHub page](https://github.com/earth-chris/elapid).
+Or click "Cite this repository" on [GitHub](https://github.com/Scotsman1973/archaeo_modelling).
 
 ---
 
-## Developed by
+## Plugin created by
 
-[Christopher Anderson](https://cbanderson.info)[^1] [^2]
-
-<a href="https://twitter.com/earth_chris">![Twitter Follow](https://img.shields.io/twitter/follow/earth_chris)</a>
-<a href="https://github.com/earth-chris">![GitHub Stars](https://img.shields.io/github/stars/earth-chris?affiliations=OWNER%2CCOLLABORATOR&style=social)</a>
-
-[home-maxent]: https://biodiversityinformatics.amnh.org/open_source/maxent/
-[r-maxnet]: https://github.com/mrmaxent/maxnet
-[^1]: [Earth Observation Lab, Planet Labs PBC](https://www.planet.com)
-[^2]: [Center for Conservation Biology, Stanford University](https://ccb.stanford.edu)
-
+[Andrew Prentice](https://digitalarchaeology.com.au)
