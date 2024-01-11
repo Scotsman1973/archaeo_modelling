@@ -95,7 +95,7 @@ The extra flexibility provided by `elapid` enables more control over the seeming
 
 ```
 
-Or click "Cite this repository" on [GitHub](https://github.com/Scotsman1973/archaeo_modelling).
+Or click "Cite this repository" on [GitHub](https://github.com/Scotsman1973/archaeo_modelling/).
 
 ---
 
