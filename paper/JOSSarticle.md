@@ -70,7 +70,7 @@ Figures can be included like this:
 and referenced from text using \autoref{fig:example}.
 
 Figure sizes can be customized by adding an optional second parameter:
-![Caption for example figure.](images\QGISdiagram.png){ width=20% }
+![Caption for example figure.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG){ width=20% }
 
 # Acknowledgements
 
