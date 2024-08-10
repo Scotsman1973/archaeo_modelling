@@ -60,13 +60,13 @@ Figures can be included like this:
 and referenced from text using \autoref{fig:example}.
 
 Figure sizes can be customized by adding an optional second parameter:
-![archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG){ width=20% }
+![archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG)
 
 Figure sizes can be customized by adding an optional second parameter:
-![The QGIS and Python framework used to build archaeoModelling.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png){ width=20% }
+![The QGIS and Python framework used to build archaeoModelling.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png)
 
 Figure sizes can be customized by adding an optional second parameter:
-![Diagram of data inputs and outputs that archaeoModelling uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png){ width=20% }
+![Diagram of data inputs and outputs that archaeoModelling uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
 
 
 # References
