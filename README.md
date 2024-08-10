@@ -13,6 +13,10 @@
 **Code**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/archaeo_modelling/blob/main/archaeo_modelling.zip)
 
 ---
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/gpl-license)
+
+---
 
 ## Introduction
 
