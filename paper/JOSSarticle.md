@@ -49,19 +49,9 @@ Furthermore, geospatial data in raster format can be placed into a folder, bypas
 
 This plugin automatically generates maps, including legend and title, in report-ready format (.jpeg) that can be ‘cut-and-paste’ into word-processing documents and GIS-ready maps (.geotif) that can be used with the minimum of effort.  Outputting GIS-ready maps is important because further GIS processing may be needed.  Confidence levels for each model are output in csv files because trust in models with high predictive value may increase if researchers include all levels in reports.  To further increase trust, additional outputs are landform weights and a map of each input.  These outputs may increase trust in the predictions, therefore making APMs more widely used in commercial archaeology.  While MaxEnt predictions are useful, the output from this plugin could form inputs for other types of machine learning and this plugin’s functionality could be extended.
 
-# Citations
+# Acknowledgements
 
-Citations to entries in paper.bib should be in
-[rMarkdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
-format.
-
-If you want to cite a software repository URL (e.g. something on GitHub without a preferred
-citation) then you can do it with the example BibTeX entry below for @fidgit.
-
-For a quick reference, the following citation commands can be used:
-- `@author:2001`  ->  "Author et al. (2001)"
-- `[@author:2001]` -> "(Author et al., 2001)"
-- `[@author1:2001; @author2:2001]` -> "(Author1 et al., 2001; Author2 et al., 2002)"
+I would like to acknowledge my PhD supervisors, Associate Professor Carney Matheson and Dr Andrea Jalandoni for their input, and Griffith University for funding my work.  This plugin would not have been possible without elapid, begun by Dr Christopher Anderson.
 
 # Figures
 
@@ -70,7 +60,13 @@ Figures can be included like this:
 and referenced from text using \autoref{fig:example}.
 
 Figure sizes can be customized by adding an optional second parameter:
-![Caption for example figure.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG){ width=20% }
+![archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG){ width=20% }
+
+Figure sizes can be customized by adding an optional second parameter:
+![The QGIS and Python framework used to build 'archaeoModelling'.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.PNG){ width=20% }
+
+Figure sizes can be customized by adding an optional second parameter:
+![Diagram of data inputs and outputs that 'archaeoModelling' uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.PNG){ width=20% }
 
 # Acknowledgements
 
