@@ -14,7 +14,9 @@
 
 ---
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/gpl-license)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/mit)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13160810.svg)](https://doi.org/10.5281/zenodo.13160810)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-ffd040.svg)](https://www.python.org/)
 
 ---
 
