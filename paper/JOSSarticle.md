@@ -22,6 +22,9 @@ date: 06 August 2024
 bibliography: paper.bib
 
 ---
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+---
 
 # Summary
 
@@ -41,9 +44,9 @@ ArchaeoModelling only uses environmental co-variates as indicators for archaeolo
 
 # Functionality
 
-The plugin, ‘archaeoModelling’, was built within the QGIS framework \autoref{fig:fig2} using Python and the Qt application, along with the ‘pluginBuilder’ and ‘pluginReloader’ tools. ArchaeoModelling’s Graphical User Interface (GUI) wraps ‘elapid’ [@Anderson:2023], a Python package designed for species distribution modelling using MaxEnt; additionally, archaeoModelling’s geospatial processing was developed specifically for archaeological predictive modelling.  Inputs (see fig. 3) include the ‘activity area’, where an excavation or survey will occur, and the ‘geographic area’, the area geospatial data, such as elevation, refers to.  The activity area can be the same as the geographic area or within its boundaries, but no part can be outside the boundaries.  For simplicity, a landform vector file (polygon or multipolygon) can be used as the geographic area.
+The plugin, ‘archaeoModelling’, was built within the QGIS framework (figure 2) using Python and the Qt application, along with the ‘pluginBuilder’ and ‘pluginReloader’ tools. ArchaeoModelling’s Graphical User Interface (GUI) wraps ‘elapid’ [@Anderson:2023], a Python package designed for species distribution modelling using MaxEnt; additionally, archaeoModelling’s geospatial processing was developed specifically for archaeological predictive modelling.  Inputs (see figure 3) include the ‘activity area’, where an excavation or survey will occur, and the ‘geographic area’, the area geospatial data, such as elevation, refers to.  The activity area can be the same as the geographic area or within its boundaries, but no part can be outside the boundaries.  For simplicity, a landform vector file (polygon or multipolygon) can be used as the geographic area.
 
-When processing, archaeoModelling accesses data’s attribute table, so codes, terminology and any mistakes are the responsibility of the body producing or altering data.  Interpretation of landforms (e.g. soil) can be quantified, giving unique features (e.g. sand or peat) a 1 – 9 weight based on site formation and destruction (Boemke et al., 2022).  The GUI’s default settings rank everything similar to the activity area higher than that which is different, so if an activity area’s slope is 5 – 15 degrees then everywhere in the geographic area with a slope between 5 – 15 degrees will be ranked higher than elsewhere.  However, weights created by default settings can be changed within the GUI.  The results of processing are rasterized, then saved in a nominated directory (fig 1, folder for model). Models are created from all rasters in the directory, limited only by computational power.
+When processing, archaeoModelling accesses data’s attribute table, so codes, terminology and any mistakes are the responsibility of the body producing or altering data.  Interpretation of landforms (e.g. soil) can be quantified, giving unique features (e.g. sand or peat) a 1 – 9 weight based on site formation and destruction (Boemke et al., 2022).  The GUI’s default settings rank everything similar to the activity area higher than that which is different, so if an activity area’s slope is 5 – 15 degrees then everywhere in the geographic area with a slope between 5 – 15 degrees will be ranked higher than elsewhere.  However, weights created by default settings can be changed within the GUI.  The results of processing are rasterized, then saved in a nominated directory (figure 1, folder for model). Models are created from all rasters in the directory, limited only by computational power.
 
 Furthermore, geospatial data in raster format can be placed into a folder, bypassing the GUI, so outputs from GIS tools (e.g. viewshed analysis) are usable as inputs.  However, more data may not always make a more accurate prediction.  Geology and/or aspect, for example, may not be relevant to a site type’s location and at some resolutions, factors such as distance to waterway may not alter predictions.  Researchers should consider using their judgement to choose inputs.
 
@@ -59,14 +62,11 @@ Figures can be included like this:
 ![Caption for example figure.\label{fig:example}](figure.png)
 and referenced from text using \autoref{fig:example}.
 
-Figure sizes can be customized by adding an optional second parameter:
-![archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG)
+![Figure 1: archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG)
 
-Figure sizes can be customized by adding an optional second parameter:
-![The QGIS and Python framework used to build archaeoModelling.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png)
+![Figure 2: The QGIS and Python framework used to build archaeoModelling.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png)
 
-Figure sizes can be customized by adding an optional second parameter:
-![Diagram of data inputs and outputs that archaeoModelling uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
+![Figure 3: Diagram of data inputs and outputs that archaeoModelling uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
 
 
 # References
