@@ -63,14 +63,11 @@ Figure sizes can be customized by adding an optional second parameter:
 ![archaeoModelling's GUI.\label{fig:fig1}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG){ width=20% }
 
 Figure sizes can be customized by adding an optional second parameter:
-![The QGIS and Python framework used to build 'archaeoModelling'.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.PNG){ width=20% }
+![The QGIS and Python framework used to build archaeoModelling.\label{fig:fig2}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.PNG){ width=20% }
 
 Figure sizes can be customized by adding an optional second parameter:
-![Diagram of data inputs and outputs that 'archaeoModelling' uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.PNG){ width=20% }
+![Diagram of data inputs and outputs that archaeoModelling uses.\label{fig:fig3}](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.PNG){ width=20% }
 
-# Acknowledgements
-
-I would like to acknowledge my PhD supervisors, Associate Professor Carney Matheson and Dr Andrea Jalandoni for their input, and Griffith University for funding my work.  This plugin would not have been possible without elapid, begun by Dr Christopher Anderson.
 
 # References
 
