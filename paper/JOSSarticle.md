@@ -19,7 +19,7 @@ affiliations:
  - name: Griffith University, Australia
    index: 1
 date: 06 August 2024
-bibliography: JOSSbibliography.bib
+bibliography: paper.bib
 
 ---
 
