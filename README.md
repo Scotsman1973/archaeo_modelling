@@ -20,13 +20,16 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/Scotsman1973/archaeo_modelling/v1.alpha.svg)](https://GitHub.com/Scotsman1973/archaeo_modelling/commit/)
 
 ---
-## Introduction
+**General introduction**
 
 The following documentation gives workflows specific to this plugin, a QGIS resource section and instuctions on installing it from a '.zip' file.
 
 ---
+**Instal from zip file**
+This plugin requires QGIS 3.0 >= 3.0 and Python 3.0 >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.
 
-## QGIS resources
+---
+**QGIS resources**
 
 GIS, be it QGIS or ArcGIS, is a package of geospatial functions that uses common data types, so skills are very transferable.  These are intorductory courses, teaching all QGIS skills necessary to use this plugin.  Otherise, Google.
 <br>
