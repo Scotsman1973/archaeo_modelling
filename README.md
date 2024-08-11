@@ -18,7 +18,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13160810.svg)](https://doi.org/10.5281/zenodo.13160810)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-ffd040.svg)](https://www.python.org/)
 [![GitHub release](https://img.shields.io/github/release/Scotsman1973/archaeo_modelling.svg)](https://github.com/Scotsman1973/archaeo_modelling/releases)
-[![GitHub commits](https://img.shields.io/github/commits-since/Scotsman1973/archaeo_modelling/v0.7.svg)](https://GitHub.com/Scotsman1973/archaeo_modelling/commit/)
+[![GitHub commits](https://img.shields.io/github/commits-since/Scotsman1973/archaeo_modelling/v1.alpha.svg)](https://GitHub.com/Scotsman1973/archaeo_modelling/commit/)
 
 ---
 
