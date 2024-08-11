@@ -64,8 +64,9 @@ Youtube sites
 
 
 ## Citation
-
-Cite by including this URL: https://github.com/Scotsman1973/archaeo_modelling
+Cite by including:
+<br>
+Andrew Prentice. (2024). Scotsman1973/archaeo_modelling: Initial test release (v1.alpha). Zenodo. https://doi.org/10.5281/zenodo.13160810
 
 ---
-## Plugin created by [Andrew Prentice](andrew.prentice@griffithuni.edu.au)
+## Plugin created by Andrew Prentice
