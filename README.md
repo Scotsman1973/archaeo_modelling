@@ -26,7 +26,7 @@ The following documentation gives workflows specific to this plugin, a QGIS reso
 
 ---
 **Install from zip file**
-This plugin requires QGIS 3.0 >= 3.0 and Python 3.0 >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.
+This plugin requires QGIS >= 3.0 and Python >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.
 
 ---
 **QGIS resources**
