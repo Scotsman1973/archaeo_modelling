@@ -30,9 +30,10 @@ The following documentation gives workflows specific to this plugin, a QGIS reso
 
 ## QGIS resources
 
-GIS, be it QGIS or ArcGIS, is a package of geospatial functions that uses common data types, so skills are very transferable.  These are intorductory courses, teaching all QGIS skills necessary to use this plugin.
+GIS, be it QGIS or ArcGIS, is a package of geospatial functions that uses common data types, so skills are very transferable.  These are intorductory courses, teaching all QGIS skills necessary to use this plugin.  Otherise, Google.
 <br>
 [Spatial thoughts](https://courses.spatialthoughts.com/introduction-to-qgis.html)
+[GIS librarian](https://www.geographyrealm.com/role-gis-librarians/)
 
 ---
 
