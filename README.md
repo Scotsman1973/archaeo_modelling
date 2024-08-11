@@ -7,8 +7,7 @@
 </p>
 
 ---
-
-**Documentation**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/archaeo_modelling/blob/main/README.md)
+##Documentation:##
 
 **Code**: [github.com/Scotsman1973/archaeo_modelling](https://github.com/Scotsman1973/archaeo_modelling/blob/main/archaeo_modelling.zip)
 
@@ -21,7 +20,6 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/Scotsman1973/archaeo_modelling/v1.alpha.svg)](https://GitHub.com/Scotsman1973/archaeo_modelling/commit/)
 
 ---
-
 ## Introduction
 
 The following documentation gives workflows specific to this plugin, a QGIS resource section and instuctions on installing it from a '.zip' file.
@@ -32,37 +30,42 @@ The following documentation gives workflows specific to this plugin, a QGIS reso
 
 GIS, be it QGIS or ArcGIS, is a package of geospatial functions that uses common data types, so skills are very transferable.  These are intorductory courses, teaching all QGIS skills necessary to use this plugin.  Otherise, Google.
 <br>
+Webpages
 [Spatial thoughts](https://courses.spatialthoughts.com/introduction-to-qgis.html)
 [GIS librarian](https://www.geographyrealm.com/role-gis-librarians/)
+<br>
+Youtube sites
+[Klas Karlsson](https://www.youtube.com/channel/UCxs7cfMwzgGZhtUuwhny4-Q)
 
 ---
-
 **Data types**
 
 
-
+---
 **Using rasters not created in the GUI**
 
 
 
-**aspect data**
+---
+**elevation data**
 
 
-
+---
 **slope data**
 
 
 
-**elevation data**
+---
+**aspect data**
 
 
-
+---
 **huge file size**
+
 
 ## Citation
 
 Cite by including this URL: https://github.com/Scotsman1973/archaeo_modelling
 
 ---
-
-## Plugin created by [Andrew Prentice](https://digitalarchaeology.com.au)
+## Plugin created by [Andrew Prentice](andrew.prentice@griffithuni.edu.au)
