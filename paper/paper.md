@@ -64,13 +64,9 @@ I would like to acknowledge my PhD supervisor Associate Professor Carney Matheso
 
 Anderson, C. B.  (2023).  Elapid: Species distribution modelling for Python.  Journal of Open Source Software, 8(84), 4930, https://doi.org/10.21105/joss.04930
 
-Barber, R. A., Ball, S. G., Morris, R. K. A., & Gilbert, F. (2022). Target-group backgrounds prove effective at correcting sampling bias in Maxent models. Diversity and Distributions, 28, 128–141. https://doi.org/10.1111/ddi.13442
-
 Boemke, B., Einwögerer, T., Händel, M., & Lehmkuhl, F. (2022). Upper Palaeolithic site probability in Lower Austria - a geoarchaeological multi-factor approach. Journal of Maps, 18(4), 610–618. https://doi.org/10.1080/17445647.2021.2009926
 
 Castiello, M. E., & Tonini, M. (2021). An Explorative Application of Random Forest Algorithm for Archaeological Predictive Modeling. A Swiss Case Study. Journal of Computer Applications in Archaeology, 4(1), 110–125. https://doi.org/10.5334/jcaa.71
-
-Feinman, G. M., & Neitzel, J. E. (2023). The social dynamics of settling down. Journal of Anthropological Archaeology, 69, 101468. https://doi.org/10.1016/j.jaa.2022.101468
 
 Galletti, C. S., Ridder, E., Falconer, S. E., & Fall, P. L. (2013). Maxent modeling of ancient and modern agricultural terraces in the Troodos foothills, Cyprus. Applied Geography (Sevenoaks), 39, 46–56. https://doi.org/10.1016/j.apgeog.2012.11.020
 
