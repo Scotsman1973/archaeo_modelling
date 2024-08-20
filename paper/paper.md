@@ -80,6 +80,8 @@ Nsanziyera, A., Rhinane, H., Oujaa, A., & Mubea, K. (2018). GIS and Remote-Sensi
 
 Morales, N. S., Fernández, I. C., & Baca-González, V. (2017). MaxEnt's parameter configuration and small samples: are we paying attention to recommendations? A systematic review. PeerJ (San Francisco, CA), 5, e3093–e3093. https://doi.org/10.7717/peerj.3093
 
+Phelan, K., Riordan, D., & 2020 31st Irish Signals and Systems Conference (ISSC) Letterkenny, Ireland 2020 June 11 - 2020 June 12. (2020). Detection of ringforts from aerial photography using machine learning. In 2020 31st Irish Signals and Systems Conference (ISSC) (pp. 1–6). https://doi.org/10.1109/ISSC49989.2020.9180159
+
 Phillips, Steven J. (2017). A Brief Tutorial on MaxEnt, https://biodiversityinformatics.amnh.org/open_source/maxent/Maxent_tutorial2017.pdf
 
 Phillips, S. J., Anderson, R. P., Dudík, M., Schapire, R. E., & Blair, M. E. (2017). Opening the black box: an open‐source release of Maxent. Ecography (Copenhagen), 40(7), 887–893. https://doi.org/10.1111/ecog.03049
