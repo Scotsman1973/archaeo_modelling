@@ -43,9 +43,8 @@ Youtube sites
 
 
 ---
-**Using rasters not created in the GUI**
-
-
+**Using rasters created in GIS**
+Rasters must be in the .tif (geotif) format, then placed in the directory nominated using the GUI.  When this simple procedure is followed, outputs from QGIS (or ArcGIS) tools, including the raster calculator, can be used as inputs for modelling.
 
 ---
 **elevation data**
