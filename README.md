@@ -24,7 +24,7 @@
 The following documentation gives workflows specific to this plugin, a QGIS resource section and instuctions on installing it from a '.zip' file.
 
 ---
-**Install from zip file**<br>
+**Dependancies and instalation from zip file**<br>
 This plugin requires QGIS >= 3.0 and Python >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.
 
 ---
@@ -43,7 +43,7 @@ Youtube sites
 
 
 ---
-**Using rasters created in GIS**
+**Using rasters created in GIS**<br>
 Rasters must be in the .tif (geotif) format, then placed in the directory nominated using the GUI.  When this simple procedure is followed, outputs from QGIS (or ArcGIS) tools, including the raster calculator, can be used as inputs for modelling.
 
 ---
