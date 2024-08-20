@@ -50,8 +50,10 @@ This plugin automatically generates maps in report-ready .jpeg format, that incl
 Figure 1: The QGIS and Python framework used to build archaeoModelling.
 ![Figure 1: The QGIS and Python framework used to build archaeoModelling.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png)
 
+Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.
 ![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
 
+Figure 3: archaeoModelling's GUI.
 ![Figure 3: archaeoModelling's GUI.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG)
 
 # Acknowledgements
