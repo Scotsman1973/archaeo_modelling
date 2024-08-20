@@ -64,6 +64,8 @@ I would like to acknowledge my PhD supervisor Associate Professor Carney Matheso
 
 Anderson, C. B.  (2023).  Elapid: Species distribution modelling for Python.  Journal of Open Source Software, 8(84), 4930, https://doi.org/10.21105/joss.04930
 
+Bickler, S. H. (2021). Machine Learning Arrives in Archaeology. Advances in Archaeological Practice, 9(2), 186–191. https://doi.org/10.1017/aap.2021.6
+
 Boemke, B., Einwögerer, T., Händel, M., & Lehmkuhl, F. (2022). Upper Palaeolithic site probability in Lower Austria - a geoarchaeological multi-factor approach. Journal of Maps, 18(4), 610–618. https://doi.org/10.1080/17445647.2021.2009926
 
 Castiello, M. E., & Tonini, M. (2021). An Explorative Application of Random Forest Algorithm for Archaeological Predictive Modeling. A Swiss Case Study. Journal of Computer Applications in Archaeology, 4(1), 110–125. https://doi.org/10.5334/jcaa.71
