@@ -62,36 +62,3 @@ I would like to acknowledge my PhD supervisor Associate Professor Carney Matheso
 
 # References
 
-Anderson, C. B.  (2023).  Elapid: Species distribution modelling for Python.  Journal of Open Source Software, 8(84), 4930, https://doi.org/10.21105/joss.04930
-
-Bickler, S. H. (2021). Machine Learning Arrives in Archaeology. Advances in Archaeological Practice, 9(2), 186–191. https://doi.org/10.1017/aap.2021.6
-
-Boemke, B., Einwögerer, T., Händel, M., & Lehmkuhl, F. (2022). Upper Palaeolithic site probability in Lower Austria - a geoarchaeological multi-factor approach. Journal of Maps, 18(4), 610–618. https://doi.org/10.1080/17445647.2021.2009926
-
-Castiello, M. E., & Tonini, M. (2021). An Explorative Application of Random Forest Algorithm for Archaeological Predictive Modeling. A Swiss Case Study. Journal of Computer Applications in Archaeology, 4(1), 110–125. https://doi.org/10.5334/jcaa.71
-
-Galletti, C. S., Ridder, E., Falconer, S. E., & Fall, P. L. (2013). Maxent modeling of ancient and modern agricultural terraces in the Troodos foothills, Cyprus. Applied Geography (Sevenoaks), 39, 46–56. https://doi.org/10.1016/j.apgeog.2012.11.020
-
-Malaperdas, G., & Zacharias, N. (2019). The habitation Model Trend Calculation (MTC): A new effective tool for predictive modeling in archaeology. Geo-Spatial Information Science, 22(4), 314–331. https://doi.org/10.1080/10095020.2019.1634320
-
-Mohammed, O. A., & Sayl, K. N. (2021). A GIS-Based Multicriteria Decision for Groundwater Potential Zone in the West Desert of Iraq. IOP Conference Series: Earth and Environmental Science, 856(1), 12049. https://doi.org/10.1088/1755-1315/856/1/012049
-
-Nsanziyera, A., Rhinane, H., Oujaa, A., & Mubea, K. (2018). GIS and Remote-Sensing Application in Archaeological Site Mapping in the Awsard Area (Morocco). Geosciences (Basel), 8(6), 207. https://doi.org/10.3390/geosciences8060207
-
-Morales, N. S., Fernández, I. C., & Baca-González, V. (2017). MaxEnt's parameter configuration and small samples: are we paying attention to recommendations? A systematic review. PeerJ (San Francisco, CA), 5, e3093–e3093. https://doi.org/10.7717/peerj.3093
-
-Phelan, K., Riordan, D., & 2020 31st Irish Signals and Systems Conference (ISSC) Letterkenny, Ireland 2020 June 11 - 2020 June 12. (2020). Detection of ringforts from aerial photography using machine learning. In 2020 31st Irish Signals and Systems Conference (ISSC) (pp. 1–6). https://doi.org/10.1109/ISSC49989.2020.9180159
-
-Phillips, Steven J. (2017). A Brief Tutorial on MaxEnt, https://biodiversityinformatics.amnh.org/open_source/maxent/Maxent_tutorial2017.pdf
-
-Phillips, S. J., Anderson, R. P., Dudík, M., Schapire, R. E., & Blair, M. E. (2017). Opening the black box: an open‐source release of Maxent. Ecography (Copenhagen), 40(7), 887–893. https://doi.org/10.1111/ecog.03049
-
-Rafuse, D. J. (2021). A maxent predictive model for hunter-gatherer sites in the southern Pampas, Argentina. Open Quaternary, 7(1). https://doi.org/10.5334/oq.97
-
-Sikk, K., Caruso, G., Rosentau, A., & Kriiska, A. (2022). Comparing contemporaneous hunter-gatherer and early agrarian settlement systems with spatial point process models: Case study of the Estonian Stone Age. Journal of Archaeological Science, Reports, 41, 103330. https://doi.org/10.1016/j.jasrep.2021.103330
-
-Vernon, K. B., Yaworsky, P. M., Spangler, J., Brewer, S., & Codding, B. F. (2022). Decomposing Habitat Suitability Across the Forager to Farmer Transition. Environmental Archaeology : the Journal of Human Palaeoecology, 27(4), 420–433. https://doi.org/10.1080/14614103.2020.1746880
-
-Wernke, S., VanValkenburgh, P., & Saito, A. (2020). Interregional Archaeology in the Age of Big Data: Building Online Collaborative Platforms for Virtual Survey in the Andes. Journal of Field Archaeology, 45(sup1), S61–S74. https://doi.org/10.1080/00934690.2020.1713286
-
-Yaworsky, P. M., Vernon, K. B., Spangler, J. D., Brewer, S. C., & Codding, B. F. (2020). Advancing predictive modeling in archaeology; an evaluation of regression and machine learning methods on the Grand Staircase-Escalante National Monument. PloS One, 2020(10), e0239424. https://doi.org/10.1371/journal.pone.0239424
