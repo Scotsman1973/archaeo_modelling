@@ -25,7 +25,9 @@ The following documentation gives workflows specific to this plugin, a QGIS reso
 
 ---
 **Dependancies and instalation from zip file**<br>
-This plugin requires QGIS >= 3.0 and Python >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.
+This plugin requires QGIS >= 3.0 and Python >= 3.0, and geopandas, rasterio and elapid Python packages installed via the OSGeo4W Shell.<br>
+Download the repository from Zenodo and unzip, but leave 'archaeoModelling.zip' as zip file.  Open QGIS desktop and navigate to 'plugins' on the toolbar.<br>
+
 
 ---
 **QGIS resources**<br>
