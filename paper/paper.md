@@ -49,5 +49,16 @@ This plugin automatically generates maps in report-ready .jpeg format, that incl
 
 I would like to acknowledge my PhD supervisor Associate Professor Carney Matheson for his input and Griffith University for funding my work.  This plugin would not have been possible without [elapid](https://github.com/earth-chris/elapid), begun by Dr Christopher Anderson.
 
+# Figures
+
+Figure 1: The QGIS and Python framework used to build archaeoModelling.
+![Figure 1: The QGIS and Python framework used to build archaeoModelling.](images/QGISdiagram.png)
+
+Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.
+![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](images/data_inputsoutputs.png)
+
+Figure 3: archaeoModelling's GUI.
+![Figure 3: archaeoModelling's GUI.](images/GUI.jpg)
+
 # References
 
