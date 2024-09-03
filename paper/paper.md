@@ -45,14 +45,6 @@ Furthermore, geospatial data in raster format can be placed into a folder, bypas
 
 This plugin automatically generates maps in report-ready .jpeg format, that include legend and title and can be ‘cut-and-paste’ into word-processing documents and GIS-ready .geotif that can be used with the minimum of effort.  Outputting GIS-ready maps is important because further processing may be needed.  Confidence levels for each model are output in .csv files because trust in models with high predictive value may increase if researchers include all levels in reports.  To further increase trust, additional outputs are landform weights and a map of each input.  These outputs may increase trust in the predictions, therefore making APMs more widely used in commercial archaeology.  While MaxEnt predictions are useful, the output from this plugin could form inputs for other types of machine learning and this plugin’s functionality could be extended.
 
-# Figures
-
-Figure 1: The QGIS and Python framework used to build archaeoModelling.
-![Figure 1: The QGIS and Python framework used to build archaeoModelling.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/QGISdiagram.png)
-
-Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.
-![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
-
 # Acknowledgements
 
 I would like to acknowledge my PhD supervisor Associate Professor Carney Matheson for his input and Griffith University for funding my work.  This plugin would not have been possible without [elapid](https://github.com/earth-chris/elapid), begun by Dr Christopher Anderson.
