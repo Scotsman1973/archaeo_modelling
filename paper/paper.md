@@ -52,8 +52,8 @@ I would like to acknowledge my PhD supervisor Associate Professor Carney Matheso
 # Figures
 
 ![Figure 1: The QGIS and Python framework used to build archaeoModelling.](QGISdiagram.png)
-
-
+![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](data_inputsoutputs.png)
+![Figure 3: archaeoModelling's GUI.](GUI.jpg)
 
 # References
 
