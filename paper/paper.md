@@ -55,7 +55,5 @@ I would like to acknowledge my PhD supervisor Associate Professor Carney Matheso
 
 ![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](https://github.com/Scotsman1973/archaeo_modelling/tree/main/images/data_inputsoutputs.png)
 
-![Figure 3: archaeoModelling's GUI.](https://github.com/Scotsman1973/archaeo_modelling/tree/main/images/GUI.jpg)
-
 # References
 
