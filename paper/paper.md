@@ -54,7 +54,7 @@ Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.
 ![Figure 2: Diagram of data inputs and outputs that archaeoModelling uses.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/data_inputsoutputs.png)
 
 Figure 3: archaeoModelling's GUI.
-![Figure 3: archaeoModelling's GUI.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/MaxEntGUI.PNG)
+![Figure 3: archaeoModelling's GUI.](https://github.com/Scotsman1973/archaeo_modelling/blob/main/images/GUI.jpg)
 
 # Acknowledgements
 
