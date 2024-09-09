@@ -18,7 +18,7 @@ authors:
 affiliations:
  - name: Australian Research Centre for Human Evolution, Griffith University, Australia
    index: 1
-- name: Griffith Centre for Social and Cultural Research, Griffith University, Australia
+ - name: Griffith Centre for Social and Cultural Research, Griffith University, Australia
    index: 2
 date: 06 August 2024
 bibliography: paper.bib
