@@ -14,10 +14,12 @@ authors:
   - name: Andrea Jalandoni
     orcid: 0000-0002-4821-7183
     corresponding: false
-    affiliation: 1
+    affiliation: "1, 2"
 affiliations:
- - name: Griffith University, Australia
+ - name: Australian Research Centre for Human Evolution, Griffith University, Australia
    index: 1
+- name: Griffith Centre for Social and Cultural Research, Griffith University, Australia
+   index: 2
 date: 06 August 2024
 bibliography: paper.bib
 
