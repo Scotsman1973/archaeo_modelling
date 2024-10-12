@@ -64,8 +64,11 @@ Rasters must be in the .tif (geotif) format, then placed in the directory nomina
 
 ---
 **huge file size**
-Reducing raster file size can be achieved two ways, by increasing pixel size or using compression algorithms.  For compression, run the gdal translate processing tool.  JPEG compression reduces file size most, and still outputs a geotiff.  If the input file size is very big (>2Gb) use bigtiff=yes, as shown.  The processing tool GRASS r.resample can be used to increase pixel size.
+Reducing raster file size can be achieved two ways, by increasing pixel size or using compression algorithms.  For compression, run the gdal translate processing tool.  JPEG compression reduces file size most, and still outputs a geotiff.  If the input file size is very big (>2Gb) use bigtiff=yes, as shown.  The processing tool, GRASS r.resample can be used to increase pixel size.
 
+<p align="center">
+  <img src="images/compressTiff.png" alt="compress tiff"/>
+</p>
 ## Citation
 Cite by including:
 <br>
