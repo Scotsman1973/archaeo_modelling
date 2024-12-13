@@ -14,7 +14,7 @@ authors:
   - name: Andrea Jalandoni
     orcid: 0000-0002-4821-7183
     corresponding: false
-    affiliations: "1, 2"
+    affiliation: "1, 2"
 affiliations:
  - name: Australian Research Centre for Human Evolution, Griffith University, Australia
    index: 1
